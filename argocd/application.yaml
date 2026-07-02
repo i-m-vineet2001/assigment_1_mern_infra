@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/YOUR_ORG/ai-task-platform-infra.git
+    repoURL: https://github.com/i-m-vineet2001/assigment_1_mern_infra.git
     targetRevision: main
     path: k8s
   destination:
